@@ -1,0 +1,6 @@
+C:\Users\alisson.teixeira\Desktop\PrjCooperativa\Cooperativa.Mvc\Cooperativa.Mvc\obj\Debug\netcoreapp3.1\Cooperativa.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\alisson.teixeira\Desktop\PrjCooperativa\Cooperativa.Mvc\Cooperativa.Mvc\obj\Debug\netcoreapp3.1\Cooperativa.Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alisson.teixeira\Desktop\PrjCooperativa\Cooperativa.Mvc\Cooperativa.Mvc\obj\Debug\netcoreapp3.1\Cooperativa.Mvc.RazorAssemblyInfo.cache
+C:\Users\alisson.teixeira\Desktop\PrjCooperativa\Cooperativa.Mvc\Cooperativa.Mvc\obj\Debug\netcoreapp3.1\Cooperativa.Mvc.RazorAssemblyInfo.cs
+C:\Users\alisson.teixeira\Desktop\PrjCooperativa\Cooperativa.Mvc\Cooperativa.Mvc\obj\Debug\netcoreapp3.1\Cooperativa.Mvc.AssemblyInfoInputs.cache
+C:\Users\alisson.teixeira\Desktop\PrjCooperativa\Cooperativa.Mvc\Cooperativa.Mvc\obj\Debug\netcoreapp3.1\Cooperativa.Mvc.AssemblyInfo.cs
